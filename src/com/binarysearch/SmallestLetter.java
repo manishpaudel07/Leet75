@@ -40,17 +40,17 @@ public class SmallestLetter {
 		 }
 		 
 		 
-		 return (left < letters.length) ? letters[left] : letters[0];
+		 return (left<letters.length)?letters[left]:letters[0];
 	        
-	        
+	       
 	    }
 
 	public static void main(String[] args) {
 
 		
-		char[] letters= {'x','x','y','y'};
+		char[] letters= {'c','x','y','y'};
 		  
-		char target='z';
+		char target='a';
 		
 		System.out.println(nextGreatestLetter(letters, target));
 	}
