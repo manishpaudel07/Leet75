@@ -40,6 +40,4 @@ public class DuplicatesNumber {
 	System.out.println("TRUE if duplicates numbers are present and FALSE if duplicates num are not present :"+result);
 	}
 
-	//testing out revert,reset, git commands
-
 }
