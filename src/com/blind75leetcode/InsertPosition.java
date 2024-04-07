@@ -1,4 +1,4 @@
-package com.blind75leetcode;
+package Leet75.src.com.blind75leetcode;
 
 import java.util.Arrays;
 
